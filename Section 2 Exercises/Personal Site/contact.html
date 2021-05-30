@@ -9,14 +9,16 @@
         <h1>My contact details:</h1>
         <p>Phone number: 07556439853</p>
 
-        <form class="" action="index.html" method="POST">
+        <form class="" action="mailto:" method="POST" enctype="text/plain">
             <label>Your Name:</label>
-            <input type="text" name="" value="">
+            <input type="text" name="yourname" value="">
+            <br><br>
+            <label>Your Email:</label>
+            <input type="email" name="youremail" value="">
+            <br><br>
+            <label>Your Message:</label>
             <br>
-            <input type="color" name="" value="">
-            <br>
-            <label>Do you want to sign up for the email list?</label>
-            <input type="checkbox" name="" value="">
+            <textarea name="yourmessage" rows="10" cols="30"></textarea>
             <br>
             <input type="submit" name="">
         </form>
