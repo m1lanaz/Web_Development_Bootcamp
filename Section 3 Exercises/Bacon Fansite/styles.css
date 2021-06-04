@@ -1,8 +1,15 @@
+/*********************TAG SELECTORS**********************/
 h1{
     color: red;
     font-size: 200px;
 }
 
-{
+/*********************CLASS SELECTORS**********************/
+
+.bacon {
+    background-color: green;
+}
+
+.carrot {
     background-color: red;
 }
