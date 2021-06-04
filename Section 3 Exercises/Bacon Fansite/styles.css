@@ -13,3 +13,9 @@ h1{
 .carrot {
     background-color: red;
 }
+
+/*********************ID SELECTORS**********************/
+
+#heading {
+    color: blue;
+}
