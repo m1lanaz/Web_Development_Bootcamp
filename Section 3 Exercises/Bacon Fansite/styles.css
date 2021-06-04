@@ -6,16 +6,16 @@ h1{
 
 /*********************CLASS SELECTORS**********************/
 
-.bacon {
+.bacon:hover {
     background-color: green;
 }
 
-.carrot {
+.carrot:hover {
     background-color: red;
 }
 
 /*********************ID SELECTORS**********************/
 
-#heading {
+#heading:hover {
     color: blue;
 }
