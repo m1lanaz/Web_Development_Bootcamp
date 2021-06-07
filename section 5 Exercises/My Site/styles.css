@@ -8,19 +8,23 @@ h1{
 
 .top-conatiner {
     background-color: #eaf9f5;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    padding: 20px;
 }
 
 .middle-container{
     background-color: blue;
     height: 200px;
     width: 200px;
-    position: relative;
+    border: 20px;
 }
 
 .bottom-container{
     background-color: red;
     height: 200px;
     width: 200px;
-    position: relative;
+    border: 10px;
 }
 
