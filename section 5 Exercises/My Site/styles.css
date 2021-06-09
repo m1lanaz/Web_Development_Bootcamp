@@ -10,6 +10,11 @@ h1{
     background-color: #eaf9f5;
 }
 
+.pro {
+    text-decoration: underline;
+}
+
+
 .middle-container{
     background-color: red;
     height: 200px;
