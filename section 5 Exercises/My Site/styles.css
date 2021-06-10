@@ -32,19 +32,3 @@ h2, h3{
     top: 40px;
 }
 
-.middle-container{
-    background-color: red;
-    height: 200px;
-    width: 200px;
-    border: 20px solid black;
-    margin-left: 260px;
-}
-
-.bottom-container{
-    background-color: yellow;
-    height: 200px;
-    width: 200px;
-    border: 10px;
-    margin-left: 500px;
-}
-
