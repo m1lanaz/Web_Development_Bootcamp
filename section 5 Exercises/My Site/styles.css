@@ -9,17 +9,29 @@ body {
 }
 
 h1{
-    padding: 60px;
+    padding: 100px;
     margin-top: 0%;
+    margin-bottom: 0%;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
 }
 
 h2{
     font-size: 2.5rem;
-}
-h2, h3{
+    color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    line-height: 2;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+
+a{
+    color: #11999E;
 }
 
 .pro {
@@ -28,14 +40,11 @@ h2, h3{
 
 .bottom-cloud{
     position: absolute;
+    left: 350px;
 }
 
 .top-cloud{
     position: absolute;
     right: 320px;
     top: 30px;
-}
-
-.mountain{
-    height: 35em;
 }
