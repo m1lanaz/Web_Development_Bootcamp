@@ -45,6 +45,10 @@ a{
     left: 350px;
 }
 
+.bottom-container{
+    background-color: #66BFBF;
+}
+
 .top-cloud{
     position: absolute;
     right: 320px;
@@ -108,9 +112,12 @@ hr {
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     border-radius: 8px;
+    height: 0;
+    line-height: 0;
     color: #FFFFFF;
-    font-family: Arial;
-    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    width: 139px;
+    font-size: 18px;
     font-weight: 100;
     padding: 40px;
     -webkit-box-shadow: 1px 1px 20px 0 #000000;
@@ -123,7 +130,7 @@ hr {
     text-align: center;
  }
  
- .btn:hover {
+ .btn {
     border: solid #337FED 1px;
     background: #30E3CB;
     background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4ED);
