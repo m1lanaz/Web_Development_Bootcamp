@@ -6,7 +6,7 @@ function isLeap(year) {
             } else{
                 return "Not leap year."
             }
-        } else{
+        }else{
             return "Leap year."
         }
     }else{
