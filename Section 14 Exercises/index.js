@@ -1,2 +1,1 @@
-$("h1").css("color", "red");
-
+$(".weird").css("background-color","red");
