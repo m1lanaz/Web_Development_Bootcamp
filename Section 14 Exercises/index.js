@@ -1,1 +1,1 @@
-$(".weird").css("background-color","red");
+$("h1.test").html("<em>hoi</em>")
