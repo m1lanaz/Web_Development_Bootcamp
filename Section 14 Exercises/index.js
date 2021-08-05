@@ -1,1 +1,3 @@
-$("a").attr("href", "google.com")
+$(document).keypress(function(event){
+    $("h1").text(event.key);
+})
