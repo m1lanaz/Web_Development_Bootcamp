@@ -1,3 +1,3 @@
-$(document).keypress(function(event){
-    $("h1").text(event.key);
-})
+$("button").click(function(){
+    $("h1").animate({opacity: 0.5});
+});
